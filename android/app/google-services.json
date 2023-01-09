@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1041815861964",
+    "project_id": "kauvery-screener",
+    "storage_bucket": "kauvery-screener.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041815861964:android:fb7725e6763f430bcb6069",
+        "android_client_info": {
+          "package_name": "com.example.kauvery_screener"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041815861964-5lafs1oten42nnk0pvfl23d7f5u5nhf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kauvery_screener",
+            "certificate_hash": "3f25fe4d74a1c720a0a3c57aff0a7ef2eae1eef8"
+          }
+        },
+        {
+          "client_id": "1041815861964-v65muijvmhtjao6dviugsdemhb8d8v1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0FTvEvZpYXdJBz6-PygB3_jBo4nL9emU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041815861964-v65muijvmhtjao6dviugsdemhb8d8v1a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1041815861964-4qqfvku39lh79mf45oos8e8sjdi6n4p8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kauveryScreener"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

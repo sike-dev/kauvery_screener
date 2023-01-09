@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1041815861964-4qqfvku39lh79mf45oos8e8sjdi6n4p8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1041815861964-4qqfvku39lh79mf45oos8e8sjdi6n4p8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCVWkS9y4TZ7tahkH8w-CUr4f2IfX-OGZo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1041815861964</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.kauveryScreener</string>
+	<key>PROJECT_ID</key>
+	<string>kauvery-screener</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kauvery-screener.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1041815861964:ios:a96a7771232202dfcb6069</string>
+</dict>
+</plist>

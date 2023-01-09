@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:get/get.dart';
-import 'package:kauvery_screener/screens/OtherProf.dart';
+import 'package:kauvery_screener/screens/otherProf.dart';
 import 'package:kauvery_screener/widgets/textField.dart';
 import 'package:kauvery_screener/widgets/text_heading.dart';
 
